@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ITAPP</string>
+    <string name="navigation_drawer_open">Abrir menu de navegacion</string>
+    <string name="navigation_drawer_close">Cerrar menu de navegacion</string>
+    <string name="nav_header_title">Usuario</string>
+    <string name="nav_header_subtitle">usuario@android.com</string>
+    <string name="nav_header_desc">Menu ravegacion</string>
+    <string name="action_settings">Configuracion</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_generar">Generar reporte</string>
+    <string name="menu_consultar">Consultar reporte</string>
+    <string name="menu_salir">Cerrar sesion</string>
+
+    <string name="login_text">Inicia sesión</string>
+    <string name="usuario_text">Ingresa usuario</string>
+    <string name="contra_text">Ingresa contraseña</string>
+    <string name="loginerror">¿Problemas para ingresar?</string>
+    <string name="loginbtn">Ingresar</string>
+
+    <string name="problemas">ingresa el problema</string>
+    <string name="error">describe el problema</string>
+    <string name="image">añadir imagen</string>
+    <string name="report">Generar reporte</string>
+
+    <string-array name="Estacion">
+        <item>Washmobile</item>
+        <item>Cuauhtemoc</item>
+        <item>La Gloria</item>
+        <item>Libertad Aeropuerto</item>
+        <item>Jibarito</item>
+        <item>Tecate Estadio</item>
+        <item>Hacienda Santa Maria</item>
+        <item>Centro</item>
+        <item>Cañaveral</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>Area 1</item>
+        <item>Area 2</item>
+        <item>Area 3</item>
+        <item>Area 4</item>
+    </string-array>
+
+
+</resources>
